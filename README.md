@@ -16,7 +16,7 @@ The key improvement in this repository is the introduction of randomized start a
 
 This repository includes modifications in the following files from the original [ROS-Jackal](https://github.com/Daffan/ros_jackal) repository:
 
-### Environment Files (Located in the `envs` folder):
+### Environment Files (Located in the `envs` folder  before extension):
 
 - `gazebo_simulation.py`
 - `jackal_gazebo_envs.py`
