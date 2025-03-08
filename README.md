@@ -1,6 +1,5 @@
 # Extended-ROS-Jackal-Environment
 
-
 This repository contains an extension to the environment setup in the original [ROS-Jackal](https://github.com/Daffan/ros_jackal) repository. The extension enhances the TD3-based reinforcement learning model by improving its generalization capability for robot navigation in diverse and unpredictable environments.
 
 ## Overview of the Extension
@@ -11,6 +10,7 @@ The key improvement in this repository is the introduction of randomized start a
 
 - **Randomized Start and Goal Points:** Enhances adaptability by preventing overfitting to specific paths.
 - **Improved Generalization:** Helps the robot handle new, previously unseen navigation challenges more effectively.
+- **Custom 16-Scenario Environment:** Introduces 16 unique static environments, each measuring 16m x 16m, designed to provide a diverse range of navigation challenges with randomized start and goal points.
 
 ## Repository Contents
 
@@ -22,13 +22,14 @@ This repository includes modifications in the following files from the original 
 - `jackal_gazebo_envs.py`
 - `motion_control_envs.py`
 
-### Main Package Files (Located in the root folder of `ros_jackal`):
+### Main Package Files (Located in the root folder of `ros_jackal` before extension):
 
-- `plot_points3.py`
+- `plot_points3.py`: Added for visualization improvements and better tracking of randomized navigation points.
 
-### Worlds Files (Located in the `jackal_helper` package):
+### Worlds Files (Located in the `jackal_helper` package of the original repository before extension):
 
 - Updates and modifications in world definition files to enhance the diversity of training environments.
+- Addition of 16 newly designed static environments with randomized start and goal points for enhanced generalization.
 
 ## Installation & Usage
 
