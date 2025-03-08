@@ -1,0 +1,1044 @@
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_15.world, num_episode: 5
+
+{'Actor_grad_norm': 3.3881039091968415,
+ 'Actor_loss': -17.720021069049835,
+ 'Collision': 0.08666666666666667,
+ 'Critic_grad_norm': 222.32899785745008,
+ 'Critic_loss': 8.298214787384495,
+ 'Episode_length': 33.06,
+ 'Episode_return': 25.355739090509335,
+ 'Exploration_noise': 0.0999221381,
+ 'Steps': 3118648,
+ 'Success': 0.8933333333333333,
+ 'Time': 613.8309833333333,
+ 'fps': 7.12676147701036,
+ 'n_episode': 76716}
+Logging to logging/motion_control_continuous_laser-v0/TD3/2024_09_14_10_50/9140
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_3.world, num_episode: 5
+
+{'Actor_grad_norm': 3.4955064045204858,
+ 'Actor_loss': -17.685005195438862,
+ 'Collision': 0.08666666666666667,
+ 'Critic_grad_norm': 218.9212698829337,
+ 'Critic_loss': 8.175148382317275,
+ 'Episode_length': 34.03333333333333,
+ 'Episode_return': 25.392186980039877,
+ 'Exploration_noise': 0.0999220338,
+ 'Steps': 3123029,
+ 'Success': 0.8933333333333333,
+ 'Time': 679.2145166666666,
+ 'fps': 7.126736481484195,
+ 'n_episode': 76842}
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+{'Actor_grad_norm': 3.33883771478769,
+ 'Actor_loss': -17.75701566413045,
+ 'Collision': 0.06,
+ 'Critic_grad_norm': 217.54593029208598,
+ 'Critic_loss': 8.219138395041227,
+ 'Episode_length': 34.026666666666664,
+ 'Episode_return': 25.88692657309394,
+ 'Exploration_noise': 0.099921924275,
+ 'Steps': 3127342,
+ 'Success': 0.9133333333333333,
+ 'Time': 441.71815333333325,
+ 'fps': 7.125919543019365,
+ 'n_episode': 76968}
+Logging to logging/motion_control_continuous_laser-v0/TD3/2024_09_14_10_50/9140
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_1.world, num_episode: 5
+
+{'Actor_grad_norm': 3.46718831442366,
+ 'Actor_loss': -17.712122835218906,
+ 'Collision': 0.05,
+ 'Critic_grad_norm': 227.11576496959532,
+ 'Critic_loss': 8.301239343127236,
+ 'Episode_length': 34.32,
+ 'Episode_return': 26.390936126349484,
+ 'Exploration_noise': 0.09992181645,
+ 'Steps': 3131668,
+ 'Success': 0.9333333333333333,
+ 'Time': 546.32314,
+ 'fps': 7.12639814382042,
+ 'n_episode': 77094}
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_14.world, num_episode: 5
+
+{'Actor_grad_norm': 3.366401028111504,
+ 'Actor_loss': -17.732278935611248,
+ 'Collision': 0.05,
+ 'Critic_grad_norm': 225.986882234332,
+ 'Critic_loss': 8.336142280139029,
+ 'Episode_length': 34.54333333333334,
+ 'Episode_return': 25.97307248641924,
+ 'Exploration_noise': 0.09992170830000001,
+ 'Steps': 3135943,
+ 'Success': 0.92,
+ 'Time': 611.6494266666666,
+ 'fps': 7.1267861167671125,
+ 'n_episode': 77220}
+Logging to logging/motion_control_continuous_laser-v0/TD3/2024_09_14_10_50/9140
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_1.world, num_episode: 5
+
+{'Actor_grad_norm': 3.3364401073568786,
+ 'Actor_loss': -17.756349679082632,
+ 'Collision': 0.04666666666666667,
+ 'Critic_grad_norm': 219.38935204444795,
+ 'Critic_loss': 8.127056983765215,
+ 'Episode_length': 33.29333333333334,
+ 'Episode_return': 26.337080881147596,
+ 'Exploration_noise': 0.099921601425,
+ 'Steps': 3140590,
+ 'Success': 0.9333333333333333,
+ 'Time': 618.5742566666665,
+ 'fps': 7.127612035584097,
+ 'n_episode': 77364}
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_10.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_6.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_4.world, num_episode: 5
+
+{'Actor_grad_norm': 3.3980857848217196,
+ 'Actor_loss': -17.772928968071938,
+ 'Collision': 0.043333333333333335,
+ 'Critic_grad_norm': 220.05308587523456,
+ 'Critic_loss': 8.159183710580692,
+ 'Episode_length': 32.513333333333335,
+ 'Episode_return': 27.014114623309002,
+ 'Exploration_noise': 0.09992148525,
+ 'Steps': 3145232,
+ 'Success': 0.9566666666666667,
+ 'Time': 691.9770933333336,
+ 'fps': 7.1282505649583365,
+ 'n_episode': 77508}
+Logging to logging/motion_control_continuous_laser-v0/TD3/2024_09_14_10_50/9140
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_0.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_8.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_3.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_9.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_5.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_7.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_1.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_4.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_11.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 5, world_idx: BARN/world_12.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 0, world_idx: BARN/world_14.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 3, world_idx: BARN/world_15.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 2, world_idx: BARN/world_13.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 1, world_idx: BARN/world_2.world, num_episode: 5
+
+    >>>> Running on device cpu
+>>>>>>>>>>>>>>>>>>>>>>>>> actor_id: 4, world_idx: BARN/world_4.world, num_episode: 5
+
+
