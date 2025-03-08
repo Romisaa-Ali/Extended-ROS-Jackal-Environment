@@ -16,7 +16,7 @@ The key improvement in this repository is the introduction of randomized start a
 
 This repository includes modifications in the following files from the original [ROS-Jackal](https://github.com/Daffan/ros_jackal) repository:
 
-### Environment Files (Located in the `envs` folder  before extension):
+### Environment Files (Located in the `envs` folder before extension):
 
 - `gazebo_simulation.py`
 - `jackal_gazebo_envs.py`
@@ -30,6 +30,13 @@ This repository includes modifications in the following files from the original 
 
 - Updates and modifications in world definition files to enhance the diversity of training environments.
 - Addition of 16 newly designed static environments with randomized start and goal points for enhanced generalization.
+
+### Model Files (Located in the `model` folder in this repository):
+
+- Extended TD3 model with improved generalization capability for robot navigation.
+- Updated policy and critic network structures to handle dynamic navigation scenarios.
+- Pretrained models available for evaluation and fine-tuning.
+- **TensorBoard logs (`events.out.tfevents.1726307412.user-System-Product-Name`) for tracking training time and performance metrics.**
 
 ## Installation & Usage
 
