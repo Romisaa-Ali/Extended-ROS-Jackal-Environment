@@ -11,7 +11,6 @@ The key improvement in this repository is the introduction of randomized start a
 
 - **Randomized Start and Goal Points:** Enhances adaptability by preventing overfitting to specific paths.
 - **Improved Generalization:** Helps the robot handle new, previously unseen navigation challenges more effectively.
-- **Bridging Simulation and Reality:** Supports a more robust training strategy that aligns better with real-world deployment.
 
 ## Repository Contents
 
